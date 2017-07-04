@@ -26,3 +26,5 @@ From the standard to the exquisite.
 * Skip List
 * Splay Trees
 * [Cache-Oblivious Data Structures](https://blogs.msdn.microsoft.com/devdev/2007/06/12/cache-oblivious-data-structures/)
+* Quadtrees
+* Interval Trees
