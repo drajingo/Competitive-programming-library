@@ -29,3 +29,6 @@ One of my favourite areas, this will soon include:
 	* Mobius Inversion
 	* Euler Totient Function
 	* Dirichlet Product/Convolution
+* Linear Programming
+	* Simplex
+	* Matrix solution
