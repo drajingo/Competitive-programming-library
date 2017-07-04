@@ -1,4 +1,4 @@
-# Competitive-programming-library
+# Competitive Programming Library
 A library of C++ codes for many topics popular in programming competitions
 
 ## Description
