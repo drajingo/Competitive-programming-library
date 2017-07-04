@@ -28,3 +28,6 @@ From the standard to the exquisite.
 * [Cache-Oblivious Data Structures](https://blogs.msdn.microsoft.com/devdev/2007/06/12/cache-oblivious-data-structures/)
 * Quadtrees
 * Interval Trees
+* Sack
+* Bitset
+* Hashing
