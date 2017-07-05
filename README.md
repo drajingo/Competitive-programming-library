@@ -15,7 +15,7 @@ Ordered alphabetically. If it's not clickable, it doesn't exist yet.
 	* Persistent Segment Tree
 	* Segment Tree
 	* Sparse Table
-	* + Some less popular ones
+	* Some less popular ones
 * Geometry
 * Graphs
 	* Directed
