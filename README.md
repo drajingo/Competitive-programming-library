@@ -11,18 +11,19 @@ Ordered alphabetically. If it's not clickable, it doesn't exist yet.
 
 * Data Structures
 	* Binary Indexed Tree
+	* Disjoint Sets
 	* Persistent Segment Tree
 	* Segment Tree
 	* Sparse Table
-	* Disjoint Sets
+	* + Some less popular ones
 * Geometry
 * Graphs
 	* Directed
-	* Undirected
 	* Trees
+	* Undirected
 * Input/Output optimizations
 * Maths
+	* Combinatorics
 	* Number Theory
 	* Polynomials
-	* Combinatorics
 * Strings
